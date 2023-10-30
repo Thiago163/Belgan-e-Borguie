@@ -1,0 +1,16 @@
+#home {
+  margin-top: 200px; /* ou o valor que preferir */
+}
+
+/* Adicione esta classe à seção da segunda tela (Trabalhos) */
+.section-trabalhos {
+  margin-top: 350px; /* ou qualquer outro valor desejado */
+}
+
+.section-carrossel {
+  margin-top: 300px; /* ou qualquer outro valor desejado */
+}
+
+.section-descricao {
+  margin-top: 200px; /* ou qualquer outro valor desejado */
+}
